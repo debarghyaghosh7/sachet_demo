@@ -1,0 +1,14 @@
+{
+  "name": "Sachet – Investor Safety Check",
+  "short_name": "Sachet",
+  "description": "Check investment tips and messages for scam warning signs, in Hindi and English. On-device, no data collected.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fbf7ee",
+  "theme_color": "#7a1620",
+  "lang": "hi",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
